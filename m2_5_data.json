@@ -1,0 +1,18 @@
+{
+    "LBAR": {
+        "type": "GamsParameter",
+        "dimension": 0,
+        "domain": [],
+        "number_records": 1,
+        "text": "labor supply (fixed and inelastic)",
+        "values": 100.0
+    },
+    "ALPHA": {
+        "type": "GamsParameter",
+        "dimension": 0,
+        "domain": [],
+        "number_records": 1,
+        "text": "productivity parameter  X = ALPHA*L",
+        "values": 2.0
+    }
+}
